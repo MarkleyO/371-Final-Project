@@ -1,6 +1,4 @@
 # 371-Final-Project
-analyzing a web map applicaiton
-
 ## Report of Global Oil Imports and Exports Map (analyzing a web map application)
 ### Introduction
 The design objective of this web map is to advertise for the GSM college, which primarily focuses on courses in oil and gas management. The map does this by stressing the importance of oil and fossil fuels in the global economy. These points are driven home by the scale of the map, choosing to use a globe puts greater stress on the truly worldwide scale that this industry has. Functionally, the map is relatively simple, yet it is done remarkably cleanly and well. The primary function is to explore the globe, and learn about which countries dominate the global oil industry. Investigating any one of these at any year provides basic info about what countries the selected does business with, and in what quantities. The map was developed by the GSM in 2014 ( the last date on the timeline ) , and is designed to pique interest in the field of Oil and Gas management, and as a result encourage people to apply for the GSM London institute. 
